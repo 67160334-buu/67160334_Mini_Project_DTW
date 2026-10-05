@@ -1,0 +1,49 @@
+month,category,tries,orders_with_ar,orders_without_ar,return_rate_without_ar,return_rate_with_ar,top_return_reason
+2025-10,Ring,8166,56,325,0.3649,0.1207,Wrong size
+2025-10,Earrings,5483,37,218,0.1313,0.0989,Looks different from expectation
+2025-10,Necklace,5119,35,204,0.1933,0.1072,Length not as expected
+2025-10,Bracelet,3480,23,138,0.2723,0.1208,Wrong size
+2025-11,Ring,24288,172,621,0.3638,0.1197,Wrong size
+2025-11,Earrings,15216,107,389,0.1496,0.0964,Looks different from expectation
+2025-11,Necklace,13630,96,348,0.1759,0.1174,Length not as expected
+2025-11,Bracelet,8932,63,228,0.271,0.1267,Wrong size
+2025-12,Ring,49674,386,972,0.3725,0.1409,Wrong size
+2025-12,Earrings,34586,268,676,0.1321,0.0901,Looks different from expectation
+2025-12,Necklace,28701,223,561,0.1956,0.1146,Length not as expected
+2025-12,Bracelet,19531,151,382,0.2816,0.1215,Wrong size
+2026-01,Ring,86178,572,1131,0.3489,0.1452,Wrong size
+2026-01,Earrings,52844,350,693,0.1431,0.0852,Looks different from expectation
+2026-01,Necklace,42932,285,563,0.1792,0.1143,Length not as expected
+2026-01,Bracelet,30262,200,397,0.2931,0.1401,Wrong size
+2026-02,Ring,128095,902,1893,0.3587,0.1226,Wrong size
+2026-02,Earrings,91025,641,1345,0.1394,0.093,Looks different from expectation
+2026-02,Necklace,75098,529,1110,0.2046,0.108,Length not as expected
+2026-02,Bracelet,50234,353,742,0.282,0.1232,Wrong size
+2026-03,Ring,172982,1192,1913,0.3702,0.14,Wrong size
+2026-03,Earrings,111036,765,1227,0.1303,0.0973,Looks different from expectation
+2026-03,Necklace,98288,677,1086,0.1922,0.1172,Length not as expected
+2026-03,Bracelet,61915,426,684,0.2871,0.1201,Wrong size
+2026-04,Ring,243039,1859,3008,0.3521,0.1438,Wrong size
+2026-04,Earrings,141458,1082,1751,0.1345,0.0872,Looks different from expectation
+2026-04,Necklace,136906,1047,1694,0.1923,0.1242,Length not as expected
+2026-04,Bracelet,87764,671,1086,0.2778,0.1326,Wrong size
+2026-05,Ring,345681,2481,3496,0.3577,0.1502,Wrong size
+2026-05,Earrings,205436,1474,2078,0.1388,0.1106,Looks different from expectation
+2026-05,Necklace,184243,1322,1863,0.1915,0.124,Length not as expected
+2026-05,Bracelet,138292,992,1398,0.2803,0.1172,Wrong size
+2026-06,Ring,414518,2991,3989,0.3642,0.1188,Wrong size
+2026-06,Earrings,284144,2050,2734,0.1419,0.0982,Looks different from expectation
+2026-06,Necklace,235173,1697,2263,0.1846,0.1079,Length not as expected
+2026-06,Bracelet,153368,1106,1476,0.2607,0.1145,Wrong size
+2026-07,Ring,463918,3598,4653,0.3751,0.141,Wrong size
+2026-07,Earrings,327985,2543,3290,0.1411,0.0909,Looks different from expectation
+2026-07,Necklace,294149,2281,2950,0.1892,0.1072,Length not as expected
+2026-07,Bracelet,176056,1365,1766,0.2893,0.1419,Wrong size
+2026-08,Ring,603717,4299,4497,0.3754,0.1403,Wrong size
+2026-08,Earrings,370687,2640,2761,0.1384,0.0988,Looks different from expectation
+2026-08,Necklace,340973,2428,2539,0.1862,0.1189,Length not as expected
+2026-08,Bracelet,266379,1897,1984,0.281,0.1324,Wrong size
+2026-09,Ring,764046,5436,4348,0.3608,0.1375,Wrong size
+2026-09,Earrings,506180,3601,2880,0.141,0.0973,Looks different from expectation
+2026-09,Necklace,452159,3217,2573,0.1933,0.1172,Length not as expected
+2026-09,Bracelet,300583,2138,1710,0.2803,0.1375,Wrong size

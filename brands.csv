@@ -1,0 +1,49 @@
+brand_id,brand_name,segment,size_tier,plan,city,ecommerce_platform,acquisition_channel,onboard_month,churn_month,status,sku_count,has_own_3d_files,commission_opt_in
+B001,Lotus Jewelry,Jewelry Brand,Medium,Pro,Bangkok,Custom Website,Shopify App Store,2026-04,,Active,104,True,False
+B002,Aurora Atelier,Jewelry Brand,Small,Pro,Chiang Mai,Shopify,Direct Sales,2026-07,,Active,49,True,False
+B003,Jade Treasure,Marketplace Seller,Large,Enterprise,Bangkok,LINE Shopping / Marketplace API,Shopify App Store,2026-04,,Active,762,False,True
+B004,Ruby Fine Jewels,Online-only Seller,Large,Enterprise,Chiang Mai,Custom Website,Website Free Trial,2026-06,,Active,359,True,True
+B005,Chanta Fine Jewels,Gem & Jewelry Retailer,Medium,Pro,Khon Kaen,Magento,Shopify App Store,2026-02,,Active,204,True,True
+B006,Aurora Collection,Jewelry Brand,Small,Starter,Bangkok,Custom Website,Direct Sales,2026-01,,Active,51,True,False
+B007,Siam Jewelry,Online-only Seller,Small,Starter,Bangkok,Shopify,Direct Sales,2025-10,2026-04,Churned,68,True,False
+B008,Golden Jewelry,Online-only Seller,Medium,Pro,Bangkok,Shopify,Trade Show,2026-08,,Active,104,True,True
+B009,Naga Gold House,Online-only Seller,Small,Pro,Bangkok,Shopify,Trade Show,2025-10,,Active,76,True,False
+B010,Royal Atelier,Online-only Seller,Small,Pro,Khon Kaen,Shopify,Trade Show,2025-11,,Active,55,False,False
+B011,Mala Fine Jewels,Jewelry Brand,Medium,Pro,Bangkok,Custom Website,LinkedIn / Content,2026-06,,Active,92,True,False
+B012,Siam Atelier,Online-only Seller,Small,Starter,Chiang Mai,WooCommerce,Website Free Trial,2026-07,,Active,39,True,True
+B013,Aurora Gold House,Online-only Seller,Medium,Pro,Bangkok,Shopify,Trade Show,2026-07,,Active,147,False,False
+B014,Indra Gold House,Marketplace Seller,Medium,Pro,Bangkok,Custom Website,Shopify App Store,2026-05,,Active,139,False,False
+B015,Velvet Fine Jewels,Online-only Seller,Large,Enterprise,Chon Buri,Shopify,Direct Sales,2026-07,,Active,485,True,True
+B016,Orchid Fine Jewels,Online-only Seller,Medium,Pro,Bangkok,WooCommerce,Website Free Trial,2025-10,,Active,227,False,True
+B017,Lotus Gems,Online-only Seller,Small,Pro,Chon Buri,WooCommerce,Website Free Trial,2026-06,,Active,61,True,False
+B018,Amber Studio,Gem & Jewelry Retailer,Small,Starter,Bangkok,Shopify,Trade Show,2025-11,,Active,71,True,False
+B019,Sapphire Atelier,Jewelry Brand,Small,Pro,Chanthaburi,Shopify,LinkedIn / Content,2025-11,,Active,69,True,False
+B020,Sapphire Fine Jewels,Gem & Jewelry Retailer,Medium,Pro,Chanthaburi,Magento,Shopify App Store,2026-01,,Active,195,False,False
+B021,Siam Gold House,Jewelry Brand,Large,Enterprise,Khon Kaen,Magento,Direct Sales,2026-04,,Active,793,True,True
+B022,Naga Treasure,Gem & Jewelry Retailer,Small,Starter,Bangkok,Shopify,Shopify App Store,2025-11,,Active,35,True,False
+B023,Orchid Studio,Gem & Jewelry Retailer,Medium,Pro,Chon Buri,WooCommerce,Shopify App Store,2026-03,,Active,126,False,False
+B024,Diamond Collection,Online-only Seller,Small,Starter,Chanthaburi,Custom Website,Direct Sales,2026-07,,Active,60,False,False
+B025,Aurora Treasure,Gem & Jewelry Retailer,Large,Enterprise,Chanthaburi,Shopify,Shopify App Store,2026-06,,Active,466,False,True
+B026,Amber Jewelry,Online-only Seller,Medium,Pro,Nonthaburi,LINE Shopping / Marketplace API,Shopify App Store,2025-12,,Active,215,True,False
+B027,Orchid Collection,Jewelry Brand,Medium,Pro,Bangkok,Magento,Website Free Trial,2025-12,,Active,145,True,False
+B028,Siam Studio,Online-only Seller,Small,Starter,Chanthaburi,Shopify,Direct Sales,2026-02,2026-06,Churned,77,False,False
+B029,Indra Gems,Jewelry Brand,Small,Starter,Khon Kaen,Shopify,LinkedIn / Content,2026-02,,Active,52,True,True
+B030,Naga Gems,Gem & Jewelry Retailer,Medium,Pro,Chon Buri,Shopify,Shopify App Store,2026-01,,Active,103,True,False
+B031,Amber Gems,Jewelry Brand,Large,Enterprise,Bangkok,Magento,Website Free Trial,2026-05,,Active,302,False,True
+B032,Lanna Gold House,Jewelry Brand,Small,Starter,Bangkok,Custom Website,Direct Sales,2026-04,,Active,22,True,False
+B033,Royal Collection,Jewelry Brand,Small,Pro,Chon Buri,Shopify,Direct Sales,2026-02,,Active,20,True,False
+B034,Mekong Collection,Gem & Jewelry Retailer,Small,Starter,Bangkok,WooCommerce,Direct Sales,2026-08,,Active,52,True,False
+B035,Jade Atelier,Jewelry Brand,Medium,Pro,Bangkok,Custom Website,Website Free Trial,2025-11,,Active,147,False,False
+B036,Jade Collection,Marketplace Seller,Medium,Pro,Phuket,Shopify,Direct Sales,2026-08,,Active,224,False,False
+B037,Indra Studio,Gem & Jewelry Retailer,Small,Starter,Khon Kaen,Magento,Trade Show,2026-04,,Active,57,True,False
+B038,Golden Fine Jewels,Jewelry Brand,Small,Pro,Phuket,Shopify,Trade Show,2025-11,,Active,68,False,False
+B039,Ruby Treasure,Jewelry Brand,Medium,Pro,Bangkok,Shopify,Direct Sales,2026-01,,Active,135,True,False
+B040,Velvet Studio,Jewelry Brand,Medium,Pro,Khon Kaen,WooCommerce,Direct Sales,2026-03,,Active,142,False,False
+B041,Lanna Jewelry,Online-only Seller,Small,Starter,Nonthaburi,Shopify,Direct Sales,2026-06,,Active,57,True,False
+B042,Sapphire Gems,Jewelry Brand,Medium,Pro,Bangkok,Shopify,Website Free Trial,2026-03,,Active,141,False,False
+B043,Royal Jewelry,Gem & Jewelry Retailer,Medium,Pro,Bangkok,Shopify,Trade Show,2026-04,,Active,193,False,False
+B044,Indra Jewelry,Gem & Jewelry Retailer,Large,Enterprise,Bangkok,Shopify,Direct Sales,2026-07,,Active,573,False,True
+B045,Mala Gold House,Marketplace Seller,Medium,Pro,Chon Buri,Shopify,Website Free Trial,2025-10,,Active,239,False,False
+B046,Pearl Atelier,Gem & Jewelry Retailer,Large,Enterprise,Nonthaburi,Shopify,Direct Sales,2026-02,,Active,250,False,True
+B047,Lanna Treasure,Jewelry Brand,Small,Starter,Bangkok,Shopify,Direct Sales,2026-04,,Active,57,False,False
+B048,Chanta Jewelry,Marketplace Seller,Small,Starter,Bangkok,WooCommerce,Trade Show,2025-10,,Active,67,True,False
